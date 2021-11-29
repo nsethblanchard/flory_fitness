@@ -10,6 +10,7 @@ function Navbar() {
         <Link to="/" className="navbar-logo">
           Flory Fitness
         </Link>
+        <div className="menu-icon"></div>
       </div>
     </>
   );
