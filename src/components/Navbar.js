@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
+// import logo for home page button once she gives it to you
 
 function Navbar() {
   return (
