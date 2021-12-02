@@ -7,8 +7,8 @@ video {
 }
 
 .hero-container {
-  background: url("/images/Christine Professional Pictures 2021/030A2856 laughing.jpg")
-    center center/cover no-repeat;
+  /* background: url("public/images/Christine Professional Pictures 2021/030A2856 laughing.jpg")
+    center center/cover no-repeat; */
   height: 100vh;
   width: 100%;
   display: flex;
