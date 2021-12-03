@@ -10,19 +10,19 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/Christine Professional Pictures 2021/030A2746 plank.jpg"
-              text="Planking is fun times"
+              src="images/plank.jpg"
+              text="Planking is fun"
               label="exercise"
               path="/services"
             />
             <CardItem
-              src="images/Christine Professional Pictures 2021/Christine-19reverse warrior.jpg"
+              src="images/yoga_blackandwhite_down_dog.jpg"
               text="Yoga under the tracks"
               label="yoga"
               path="/services"
             />
             <CardItem
-              src="images/Christine Professional Pictures 2021/Christine-1 wall sports bra .jpg"
+              src="images/drystack_stone_sports_bra.jpg"
               text="Standing near a wall is also fun times"
               label="dry-stack stone wall"
               path="/services"
