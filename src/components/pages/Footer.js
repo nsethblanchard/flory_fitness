@@ -65,51 +65,50 @@ function Footer() {
           <div class="footer-logo">
             <Link to="/" className="social-logo">
               Flory Fitness
-              <i class="fab fa-typo3" />
+              <i class="fas fa-anchor" style={{ marginLeft: 15 }} />
             </Link>
           </div>
 
           <div class="social-icons">
-            <Link
-              class="social-icon-link facebook"
-              to="/"
+            <a
+              href="https://www.facebook.com/FloryFitnessLLC"
+              className="social-icon-link facebook"
               target="_blank"
+              rel="noreferrer"
               aria-label="Facebook"
             >
               <i class="fab fa-facebook-f" />
-            </Link>
-            <Link
-              class="social-icon-link instagram"
-              to="/"
+            </a>
+
+            <a
+              href="https://www.instagram.com/christineflorywellnesscoach/"
+              className="social-icon-link instagram"
               target="_blank"
+              rel="noreferrer"
               aria-label="Instagram"
             >
               <i class="fab fa-instagram" />
-            </Link>
-            <Link
-              class="social-icon-link youtube"
-              to="/"
+            </a>
+
+            <a
+              href="https://twitter.com/cfloryfitness"
+              className="social-icon-link twitter"
               target="_blank"
-              aria-label="Youtube"
-            >
-              <i class="fab fa-youtube" />
-            </Link>
-            <Link
-              class="social-icon-link twitter"
-              to="/"
-              target="_blank"
+              rel="noreferrer"
               aria-label="Twitter"
             >
               <i class="fab fa-twitter" />
-            </Link>
-            <Link
-              class="social-icon-link twitter"
-              to="/"
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/christine-flory-ab01ba4b/"
+              className="social-icon-link linkedin"
               target="_blank"
+              rel="noreferrer"
               aria-label="LinkedIn"
             >
               <i class="fab fa-linkedin" />
-            </Link>
+            </a>
           </div>
         </div>
       </section>
